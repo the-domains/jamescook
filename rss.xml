@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[jamescook]]></title>
         <description><![CDATA[jamescook]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jamescook/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 22:21:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 22:24:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jamescook/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>2.82</p>]]></description>
+            <link>https://thegrid.ai/jamescook/282/index.html</link>
+            <guid isPermaLink="false">3de5f9a1-c987-4113-bcf0-c78ebbe67af0</guid>
+            <pubDate>Tue, 15 Mar 2016 22:24:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What is Ethereum? | Investopedia]]></title>
             <description><![CDATA[<article><h1>What is Ethereum? | Investopedia</h1><p>is a peer-to-peer network of virtual machines that any developer can use to run distributed applications (Dapps). These computer programs could be anything, but the network is optimized to carry out rules that mechanically execute when certain conditions are met, like a contract. uses its own decentralized public blockchain to cryptographically store, execute, and protect these contracts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5c9781835eda56d790fc3a541e5a1d7a7df42bd.jpg"></article>]]></description>
