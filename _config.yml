@@ -1,0 +1,28 @@
+name: jamescook
+favicon: null
+layout_spectrum: 0.2853382376488298
+typography_spectrum: 0.610127195250243
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.590430662734434
+  lightness: 0.5050745431799442
+  saturation: 0.500937296776101
+  rhythmicContrast: 0.9210252063348889
+purpose: []
